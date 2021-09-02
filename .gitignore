@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/.vs
+/UnitTesting/UnitTestDemo/.vs/UnitTestDemo/DesignTimeBuild
+/UnitTesting/UnitTestDemo/FileProcess/obj
+/UnitTesting/UnitTestDemo/FileProcess/bin/Debug/net5.0
+/UnitTesting/UnitTestDemo/MyClassesTest/bin/Debug/net5.0
+/UnitTesting/UnitTestDemo/MyClassesTest/obj
+/UnitTesting/UnitTestDemo/_NCrunch_UnitTestDemo
+/UnitTesting/UnitTestDemo/UnitTestDemo.v3.ncrunchsolution.user
+/UnitTesting/UnitTestDemo/MyClassesTest/MyClassesTest.v3.ncrunchproject.user
+/UnitTesting/UnitTestDemo/FileProcess/MyClasses.v3.ncrunchproject.user
+/UnitTesting/UnitTestDemo/.vs/UnitTestDemo/v16/TestStore/0
