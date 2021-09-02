@@ -1,7 +1,5 @@
-using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MyClasses;
-using MyClassesTest;
 
 namespace MyClassesTest
 {
